@@ -1,0 +1,2 @@
+var = "sam"
+print(var)
